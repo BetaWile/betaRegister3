@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "owner": "",
+        "prefix": "",
+        "token": "",
+        "botVoiceChannelID": ""
+    },
+    "Roles": {
+        "BoyRole1": "83855522703712294",
+        "BoyRole2": "",
+        "GirlRole1": "",
+        "GirlRole2": "",
+        "Unregister": "",
+        "Registerer": "",
+        "ustyetki": "",
+        "TagRole": "",
+        "Suspicious": "",
+        "Jail": ""
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "",
+            "ServerID": "",
+            "Tag": ""
+    },
+        "Channels": {
+            "RegisterChat": "",
+            "RegisterLog": "",
+            "TagLog": "",
+            "Rules": "",
+            "GeneralChat": ""
+        },
+        "Welcome": {
+            "WelcomeChat": "",
+            "WelcomeName": "İsim | Yaş"
+        }
+}
