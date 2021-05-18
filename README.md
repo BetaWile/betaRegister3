@@ -87,7 +87,9 @@
 }
 ```
 
-Tadaaa 🎉. Artık register botun hazır. Dilediğin gibi kullanabilirsin.
+
+
+**Tadaaa 🎉. Artık register botun hazır. Dilediğin gibi kullanabilirsin.**
 
 # İletişim
 * [Discord Sunucum](https://discord.gg/58UAMVJTSH)
