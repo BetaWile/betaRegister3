@@ -10,7 +10,7 @@
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
 ## Botun İntentlerini Açmayı Unutma!
-{Açmak için Tıkla](https://discord.com/developers/applications)
+[Açmak İçin Tıkla](https://discord.com/developers/applications)
 <img src="https://cdn.discordapp.com/attachments/818953120452575322/851116463166849054/3P4KKB.png"/>
 
 ## config.json Bilgi
