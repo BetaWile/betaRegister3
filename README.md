@@ -10,7 +10,7 @@
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
 **Botun İntentlerini Açmayı Unutmayın!**
-<img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
+<img src="https://betaaa.has-a-hot.mom/55raiL"/>
 
 ## config.json Bilgi
 
