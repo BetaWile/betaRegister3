@@ -4,7 +4,7 @@
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 * Bu projeyi zip halinde indir.
 * Herhangi bir klasöre zipi çıkart.
-* Daha sonra  `config.json` dosyasının içindeki bilgileri doldur.
+* Daha sonra `Settings`katagorisindeki `Settings.json` dosyasının içindeki bilgileri doldur.
 * Sonra klasörün içerisinde bir `powershell` ya da `cmd` penceresi aç.
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
@@ -13,30 +13,58 @@
 * [Açmak İçin Tıkla](https://discord.com/developers/applications)
 <img src="https://cdn.discordapp.com/attachments/818953120452575322/851116463166849054/3P4KKB.png"/>
 
-## config.json Bilgi
+## Settings.json Bilgi
 
 ```json
 {
-  "OwnerID":"", 
-  "Prefix":"", 
-  "Token":"", 
-  "guildID":"", 
-  "logChannelID":"", 
-  "channelProtection":true,
-  "roleProtection":true,
-  "botProtection":true,
-  "banProtection":true,
-  "kickProtection":true,
-  "serverProtection":true,
-  "rightClickProtection":true, 
-  "whitelist":[""], 
-  "boosterRole":"", 
-  "jailRole":"" 
+    "BotSettings": {
+        "owner": "",
+        "prefix": "",
+        "token": "",
+        "botVoiceChannelID": ""
+    },
+    "Roles": {
+        "BoyRole1": "",
+        "BoyRole2": "",
+        "GirlRole1": "",
+        "GirlRole2": "",
+        "Unregister": "",
+        "Registerer": "",
+        "ustyetki": "",
+        "TagRole": "",
+        "Suspicious": "",
+        "Jail": ""
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "",
+            "ServerID": "",
+            "Tag": ""
+    },
+        "Channels": {
+            "RegisterChat": "",
+            "RegisterLog": "",
+            "TagLog": "",
+            "Rules": "",
+            "GeneralChat": ""
+        },
+        "Welcome": {
+            "WelcomeChat": "",
+            "WelcomeName": "İsim | Yaş"
+        }
 }
 ```
 
 
-***Tadaaa 🎉. Artık guard botun hazır. Dilediğin gibi kullanabilirsin.***
+***Tadaaa 🎉. Artık register botun hazır. Dilediğin gibi kullanabilirsin.***
 
 # İletişim
 * [Discord Profilim](https://discord.com/users/780891365063917572)
