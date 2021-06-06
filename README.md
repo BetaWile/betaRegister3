@@ -9,58 +9,33 @@
 * ```npm install``` yazarak tüm modülleri kur.
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
-## Settings.json Bilgi
+**Botun İntentlerini Açmayı Unutmayın!**
+<img src="https://github-readme-stats.vercel.app/api?username=bet4w&theme=dark&show_icons=truet" width="%100" height="150px" alt="stats" />
+
+## config.json Bilgi
 
 ```json
 {
-    "BotSettings": {
-        "owner": "",
-        "prefix": "",
-        "token": "",
-        "botVoiceChannelID": ""
-    },
-    "Roles": {
-        "BoyRole1": "",
-        "BoyRole2": "",
-        "GirlRole1": "",
-        "GirlRole2": "",
-        "Unregister": "",
-        "Registerer": "",
-        "ustyetki": "",
-        "TagRole": "",
-        "Suspicious": "",
-        "Jail": ""
-    },
-        "Colors": {
-            "Red": "ff0000",
-            "Magenta": "660099",
-            "Black": "000000",
-            "Gold": "ffd700",
-            "Pink": "ffcbdb",
-            "Green": "66ff00",
-            "Yellow": "ffff00"
-    },
-        "ServerSettings": {
-            "ServerName": "",
-            "ServerID": "",
-            "Tag": ""
-    },
-        "Channels": {
-            "RegisterChat": "",
-            "RegisterLog": "",
-            "TagLog": "",
-            "Rules": "",
-            "GeneralChat": ""
-        },
-        "Welcome": {
-            "WelcomeChat": "",
-            "WelcomeName": "İsim | Yaş"
-        }
+  "OwnerID":"", 
+  "Prefix":"", 
+  "Token":"", 
+  "guildID":"", 
+  "logChannelID":"", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":[""], 
+  "boosterRole":"", 
+  "jailRole":"" 
 }
 ```
 
 
-***Tadaaa 🎉. Artık register botun hazır. Dilediğin gibi kullanabilirsin.***
+***Tadaaa 🎉. Artık guard botun hazır. Dilediğin gibi kullanabilirsin.***
 
 # İletişim
 * [Discord Profilim](https://discord.com/users/780891365063917572)
