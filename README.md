@@ -10,7 +10,7 @@
 * Kurulum bittikten sonra ```node beta.js``` yaz ve botu başlat.
 
 **Botun İntentlerini Açmayı Unutmayın!**
-<img src="https://betaaa.has-a-hot.mom/55raiL"/>
+<img src="https://cdn.discordapp.com/attachments/818953120452575322/851116252154953728/55raiL.png"/>
 
 ## config.json Bilgi
 
