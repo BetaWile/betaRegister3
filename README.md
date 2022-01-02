@@ -1,4 +1,4 @@
-## 35 STARDA PAYLAŞICAM
+## 4S STARDA PAYLAŞICAM
 
 <div align="center">
    <a href="https://github.com/BetaWile">
